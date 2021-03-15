@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://noahmccashland.com/"
 title = "Noah McCashland"
 languageCode = "en"
 hasCJKLanguage = false
