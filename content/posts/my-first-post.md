@@ -6,7 +6,7 @@ draft: true
 
 # Welcome
 
-what up ana :)
+ ! what up ana :)
 
 ![this is a picture](/animation.gif) 
 
