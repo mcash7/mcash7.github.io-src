@@ -6,6 +6,8 @@ draft: true
 
 # Welcome
 
+what up ana :)
+
 ![this is a picture](/animation.gif) 
 
 ##### Test
